@@ -14,7 +14,8 @@ Modelos utilizados
 En esta investigación, se implementan dos modelos de regresión cuántica de Qiskit: el Neural Network
 Regressor (NNR) y el Variational Quantum Regressor (VQR).
 
-![QVC]([URL_de_la_Imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.qmunity.tech%2Ftutorials%2Fbuilding-a-variational-quantum-classifier&psig=AOvVaw1nYmk0vPKvWFwpfZLBD-_J&ust=1696282741688000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMjxquPn1YEDFQAAAAAdAAAAABAE))
+![image](https://github.com/LazaroR-u/Quantum_Computing/assets/80428982/1e53b351-f065-4913-9dac-69f6c894d3b2)
+
 
 
 Para estos modelos, consideramos los circuitos cuánticos que se muestran en la figura 4. Cada qubit
